@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NumpyPython.iml" filepath="$PROJECT_DIR$/.idea/NumpyPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Numpy__Pandas.iml" filepath="$PROJECT_DIR$/.idea/Numpy__Pandas.iml" />
     </modules>
   </component>
 </project>
