@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="661a5091-c5f5-448b-9021-b254638e505e" name="Changes" comment="indexing,slysing &amp; updaing">
+    <list default="true" id="661a5091-c5f5-448b-9021-b254638e505e" name="Changes" comment="operators for array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/numpy.ipynb" afterDir="false" />
     </list>
@@ -80,7 +80,10 @@
       <updated>1710261353621</updated>
       <workItem from="1710261372444" duration="6881000" />
       <workItem from="1710354522333" duration="1913000" />
-      <workItem from="1710443257961" duration="1006000" />
+      <workItem from="1710443257961" duration="3105000" />
+      <workItem from="1710590166716" duration="94000" />
+      <workItem from="1710598278987" duration="610000" />
+      <workItem from="1710613183706" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="creating ndarray">
       <option name="closed" value="true" />
@@ -122,7 +125,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710356786215</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="flatten &amp; ravel study">
+      <option name="closed" value="true" />
+      <created>1710444346556</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710444346556</updated>
+    </task>
+    <task id="LOCAL-00007" summary="reshape and iteration">
+      <option name="closed" value="true" />
+      <created>1710445371706</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710445371706</updated>
+    </task>
+    <task id="LOCAL-00008" summary="operators for array">
+      <option name="closed" value="true" />
+      <created>1710445940756</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710445940756</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +160,10 @@
     <MESSAGE value="adding describtions" />
     <MESSAGE value="readme file" />
     <MESSAGE value="indexing,slysing &amp; updaing" />
-    <option name="LAST_COMMIT_MESSAGE" value="indexing,slysing &amp; updaing" />
+    <MESSAGE value="flatten &amp; ravel study" />
+    <MESSAGE value="reshape and iteration" />
+    <MESSAGE value="operators for array" />
+    <option name="LAST_COMMIT_MESSAGE" value="operators for array" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NumpyPython$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1710265285411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
